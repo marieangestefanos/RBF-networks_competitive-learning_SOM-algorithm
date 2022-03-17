@@ -1,0 +1,2 @@
+# RBF-networks_competitive-learning_SOM-algorithm
+Radial-Basis Function (RBF) networks, which incorporate both unsupervised and supervised learning to address classification and regression tasks. Self-organising NNs - Kohonen maps (SOM) used to help visualise high-dimensional data by finding suitable low-dimensional manifolds or perform clustering in high-dimensional spaces. In both cases the objective is to organise and present complex data in an intuitive visual form understandable for humans.
